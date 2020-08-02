@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Hosted on surge
-URL - http://thankful-root.surge.sh/
+URL - bumpy-rule.surge.sh
 
 ## Available Scripts
 
