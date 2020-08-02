@@ -20,9 +20,9 @@ function App() {
         </div>
         <div label="TO-READ">
           <div style={{ textAlign: "center" }}>
-            <Card image={readData[0].image} content={readData[0].content}/>
-            <Card image={readData[1].image} content={readData[1].content}/>
-            <Card image={readData[2].image} content={readData[2].content}/>
+            <Card image={readData[0].image} title={readData[0].title}/>
+            <Card image={readData[1].image} title={readData[1].title}/>
+            <Card image={readData[2].image} title={readData[2].title}/>
           </div> 
         </div>
       </Tabulars>
