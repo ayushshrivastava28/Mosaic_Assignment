@@ -94,4 +94,41 @@
     justify-content: center;
     text-align: center;
   }
+
+@media only screen and (max-width: 770px) {
+    .container {
+      margin: 0 10%;
+    }
+  
+    .image {
+      width: 100%;
+    }
+    .tab-list-active{
+        width: 100%;
+      }
+      .card_title{
+        width: 100%;
+
+      }
+      .cards{
+        width: 100%;
+
+      }
+      .card{
+        width: 100%;
+
+      }
+      .card_info{
+        width: 100%;
+
+      }
+      .tab-list-item{
+        width: 100%;
+
+      }
+      .card_category{
+        width: 100%;
+      }
+
+  }
   
