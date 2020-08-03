@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Hosted on surge
-URL - http://responsible-crate.surge.sh/
+URL - http://far-snail.surge.sh/
 
 ## Available Scripts
 
